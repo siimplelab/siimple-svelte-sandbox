@@ -1,0 +1,19 @@
+{
+  "name": "siimple-svelte-sandbox",
+  "version": "1.0.0",
+  "description": "A sandbox to experiment on Svelte. Structured and simplified sandbox that anyone can use to understand the stack and utilize for your own project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siimplelab/siimple-svelte-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siimplelab/siimple-svelte-sandbox/issues"
+  },
+  "homepage": "https://github.com/siimplelab/siimple-svelte-sandbox#readme"
+}
